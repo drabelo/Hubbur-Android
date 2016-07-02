@@ -1,0 +1,26 @@
+<!-- [ Mirror metadata ] generatedAt: 1434752484905 -->
+<!-- Generated screen file. Fill the id tags below with content with
+which to populate your previewed layout. For a complete specification
+of sample data, please see http://jimulabs.com/sample-data-specifications/ 
+
+Valid attributes on <screen> tag: theme="@style/someTheme" inEditMode="false" overlay="@drawable/mockup" -->
+<screen>
+    <_content layout="@layout/fragment_event_detail">
+        <!-- TextView Examples:
+        <titleEvent2 text="@string/string_resource" />
+        <titleEvent2 text="Text literal" textSize="14sp" /> -->
+        <titleEvent2 />
+        <locationEvent2 />
+        <dateEvent2 />
+        <textView40 />
+        <textView43 />
+        <titleEvent />
+        <textView29 />
+        <descriptionEvent />
+        <textView39 />
+        <dateEvent />
+        <textView46 />
+        <end />
+        <textView49 />
+    </_content>
+</screen>

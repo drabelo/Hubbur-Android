@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fontinator-master/Fontinator-master.iml" filepath="$PROJECT_DIR$/Fontinator-master/Fontinator-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extendedCalendarView/extendedCalendarView.iml" filepath="$PROJECT_DIR$/extendedCalendarView/extendedCalendarView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hubbur-android.iml" filepath="$PROJECT_DIR$/hubbur-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/library/library.iml" filepath="$PROJECT_DIR$/libs/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libraryTaurys/libraryTaurys.iml" filepath="$PROJECT_DIR$/libs/libraryTaurys/libraryTaurys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialList/materialList.iml" filepath="$PROJECT_DIR$/materialList/materialList.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="beta.drab.hubber.Activity.homeActivity">
+
+
+    <item android:id="@+id/menuUpdate"
+        android:icon="@drawable/comment"
+        android:title="Comment"
+        app:showAsAction="always"/>
+
+
+</menu>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="beta.drab.hubber" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".ApplicationBase"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/Theme.MyTheme"
+        android:versionCode="2"
+        tools:replace="android:theme" >
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="Application.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="19" />
+
+        <provider
+            android:name="com.tyczj.extendedcalendarview.CalendarProvider"
+            android:authorities="com.tyczj.extendedcalendarview.calendarprovider" />
+
+        <activity
+            android:name=".Activity.BaseActivity"
+            android:label="@string/title_activity_base"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoDisplay" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.firstActivity"
+            android:label="Hubbur"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.LocationActivity"
+            android:label="@string/title_activity_location"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.verifyPhoneActivity"
+            android:label="@string/title_activity_verify_phone"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.ConnectWFriendsActivity"
+            android:label="@string/title_activity_connect_wfriends"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.FindFriendsActivity"
+            android:label="@string/title_activity_find_friends" >
+        </activity>
+        <activity
+            android:name=".Activity.HubSelectorActivity"
+            android:label="@string/title_activity_hub_selector"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.homeActivity"
+            android:label="Hubber"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.EventDetailActivity"
+            android:label="@string/title_activity_event_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.Detail4Picture"
+            android:label="@string/title_activity_detail4_picture"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.MyHubs"
+            android:label="@string/title_activity_my_hubs"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.contentDetailActivity"
+            android:label="@string/title_activity_comment_view"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name=".Activity.PostNewContentActivity"
+            android:label="@string/title_activity_new_comment"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- Declare the bundled CropImage Activity -->
+        <activity
+            android:name="com.android.camera.CropImage"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.NewEventActivity"
+            android:label="@string/title_activity_new_event"
+            android:parentActivityName=".Activity.homeActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="7e6cbbdeda56823f0c50fc059055357a3241dbd6" />
+
+        <activity
+            android:name=".Activity.MyNavigationDrawer"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyNavigationDrawerTheme" />
+        <activity
+            android:name=".Activity.NavigationDrawer"
+            android:label="@string/title_activity_navigation_drawer"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activity.Profiles.UserActivity"
+            android:label="@string/title_activity_user"
+            android:parentActivityName=".Activity.homeActivity" >
+        </activity>
+        <activity
+            android:name=".Activity.Profiles.SubHubProfileActivity"
+            android:label="@string/title_activity_hub_profile"
+            android:parentActivityName=".Activity.homeActivity" >
+        </activity>
+        <activity
+            android:name=".Activity.CalendarActivity"
+            android:label="@string/title_activity_calendar"
+            android:parentActivityName=".Activity.homeActivity" >
+        </activity>
+        <activity
+            android:name=".Activity.MyFriendsActivity"
+            android:label="@string/title_activity_my_friends" >
+        </activity>
+        <activity
+            android:name=".Activity.MyInvitesActivity"
+            android:label="@string/title_activity_my_invites" >
+        </activity>
+        <activity
+            android:name=".Activity.InviteFriendsActivity"
+            android:label="@string/title_activity_invite_friends" >
+        </activity>
+    </application>
+
+</manifest>

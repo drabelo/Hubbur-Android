@@ -1,0 +1,44 @@
+<!-- [ Mirror metadata ] generatedAt: 1434752484886 -->
+<!-- Generated screen file. Fill the id tags below with content with
+which to populate your previewed layout. For a complete specification
+of sample data, please see http://jimulabs.com/sample-data-specifications/ 
+
+Valid attributes on <screen> tag: theme="@style/someTheme" inEditMode="false" overlay="@drawable/mockup" -->
+<screen>
+    <_content layout="@layout/activity_new_comment">
+        <!-- TextView Examples:
+        <textView58 text="@string/string_resource" />
+        <textView58 text="Text literal" textSize="14sp" /> -->
+        <textView58 />
+        <spinner>
+            <items layout="@android:layout/simple_spinner_item" >
+                <_item>
+                    <text1>Dalmatian</text1>
+                </_item>
+                <_item>
+                    <text1>Great Dane</text1>
+                </_item>
+                <_item>
+                    <text1>Shi Tzu</text1>
+                </_item>
+                <_item>
+                    <text1>Corgi</text1>
+                </_item>
+                <_item>
+                    <text1>Labrador</text1>
+                </_item>
+                <_item>
+                    <text1>Doberman</text1>
+                </_item>
+                <_item>
+                    <text1>Chihuahua</text1>
+                </_item>
+            </items>
+                </spinner>
+        <!-- ImageView Examples:
+        <imageView11 src="@drawable/image_resource" />
+        <imageView11 src="relative_path/image.jpg" /> -->
+        <imageView11 />
+        <textView59 />
+    </_content>
+</screen>

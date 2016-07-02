@@ -1,0 +1,68 @@
+
+
+
+
+    <RelativeLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="beta.drab.hubber.Fragments.CalendarFragment">
+
+    <com.tyczj.extendedcalendarview.ExtendedCalendarView
+        android:id="@+id/extendedCalendarView_addLocationSiteCalendar_CALENDAR"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:id="@+id/divider"
+            android:background="@android:color/darker_gray"
+            android:layout_alignTop="@+id/card_view2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card_view"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            card_view:cardCornerRadius="4dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <TextView android:text="Event 1" android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="30dp" />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card_view2"
+
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            card_view:cardCornerRadius="4dp"
+            android:layout_above="@+id/card_view"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <TextView android:text="Event 2" android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp" />
+
+        </android.support.v7.widget.CardView>
+
+    </RelativeLayout>

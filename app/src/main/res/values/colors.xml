@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="blue" type="color">#ff4db6ac</item>
+    <item name="white" type="color">#fffffff0</item>
+    <item name="dark_blue" type="color">#0B6D63</item>
+
+    <color name="grey">#C2C2C2</color>
+
+
+
+    <color name="text_black">#000000</color>
+    <color name="text_grey">#666666</color>
+
+
+        <color name="primary">#03A9F4</color>
+        <color name="primary_dark">#0288D1</color>
+        <color name="primary_light">#B3E5FC</color>
+        <color name="accent">#00BCD4</color>
+        <color name="primary_text">#212121</color>
+        <color name="secondary_text">#727272</color>
+        <color name="icons">#FFFFFF</color>
+        <color name="divider">#B6B6B6</color>
+
+
+
+
+</resources>

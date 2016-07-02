@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    tools:context="beta.drab.hubber.Activity.CalendarActivity"
+    android:background="@drawable/gradient_radius"
+    android:id="@+id/relativeLayout"
+>
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar"
+        android:background="#ae80ff96"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relativeLayout3"
+        android:layout_below="@+id/toolbar">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Calendar"
+            android:id="@+id/textView47"
+            android:textColor="#ffffffff"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <com.malinskiy.superrecyclerview.SuperRecyclerView
+            android:id="@+id/list"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            app:layout_empty="@layout/footer_view"
+            app:layout_progress="@layout/footer_view"
+            app:mainLayoutId="@layout/layout_recyclerview_verticalscroll"
+            app:scrollbarStyle="insideInset"
+            android:layout_below="@+id/textView47"
+             />
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="beta.drab.hubber.Activity.Detail4Picture">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:id="@+id/imageView13"
+        android:layout_centerHorizontal="true"
+        android:background="#ff32322e"
+        android:src="@drawable/art_banner"
+        android:scaleType="fitXY"
+        android:clickable="true"
+        android:onClick="onPicClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="12 Likes"
+        android:id="@+id/textView36"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/imageView13"
+        android:layout_alignStart="@+id/imageView13"
+        android:paddingLeft="10dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText3"
+            android:layout_weight="1"
+            android:hint="Enter comment" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="46dp"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:id="@+id/button"
+            android:layout_weight="0.34" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Dailton Rabelo: Idea Jam"
+        android:id="@+id/textView37"
+        android:layout_below="@+id/textView36"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingLeft="10dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

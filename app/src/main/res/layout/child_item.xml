@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:onClick="onCheckBoxClick"
+    android:nestedScrollingEnabled="false"
+    android:clickable="true">
+
+    <CheckBox
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="New CheckBox"
+        android:id="@+id/checkbox"
+        android:fontFamily="sans-serif-thin"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:gravity="left"
+        android:enabled="true"
+        android:checked="false"
+        android:focusable="false" />
+
+
+</RelativeLayout>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.LocationActivity"/>
+      <point      
+        x = "500"      
+        y = "8380"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.LocationActivity"/>
+      <point      
+        x = "1768"      
+        y = "8380"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.EventDetailActivity"/>
+      <point      
+        x = "1768"      
+        y = "5612"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.EventDetailActivity"/>
+      <point      
+        x = "500"      
+        y = "5612"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.Profiles.SubHubProfileActivity"/>
+      <point      
+        x = "500"      
+        y = "9760"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.Profiles.SubHubProfileActivity"/>
+      <point      
+        x = "1768"      
+        y = "9760"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.NavigationDrawer"/>
+      <point      
+        x = "500"      
+        y = "26320"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.android.camera.CropImage"/>
+      <point      
+        x = "500"      
+        y = "19420"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.commentViewActivity"/>
+      <point      
+        x = "500"      
+        y = "11140"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.commentViewActivity"/>
+      <point      
+        x = "1768"      
+        y = "11140"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.Profiles.UserActivity"/>
+      <point      
+        x = "252"      
+        y = "21236"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.Profiles.UserActivity"/>
+      <point      
+        x = "1520"      
+        y = "21236"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.homeActivity"/>
+      <point      
+        x = "548"      
+        y = "19468"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.homeActivity"/>
+      <point      
+        x = "1768"      
+        y = "23556"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.MyNavigationDrawer"/>
+      <point      
+        x = "548"      
+        y = "26368"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.LoginActivity"/>
+      <point      
+        x = "4660"      
+        y = "788"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.LoginActivity"/>
+      <point      
+        x = "3392"      
+        y = "788"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.PostNewContentActivity"/>
+      <point      
+        x = "2536"      
+        y = "268"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.PostNewContentActivity"/>
+      <point      
+        x = "3804"      
+        y = "268"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.MyHubs"/>
+      <point      
+        x = "3216"      
+        y = "2496"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.MyHubs"/>
+      <point      
+        x = "1948"      
+        y = "2496"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.contentDetailActivity"/>
+      <point      
+        x = "496"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.contentDetailActivity"/>
+      <point      
+        x = "1764"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.HubSelectorActivity"/>
+      <point      
+        x = "500"      
+        y = "12520"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.HubSelectorActivity"/>
+      <point      
+        x = "1768"      
+        y = "12520"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.Detail4Picture"/>
+      <point      
+        x = "500"      
+        y = "9760"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.Detail4Picture"/>
+      <point      
+        x = "1768"      
+        y = "9760"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.RegisterActivity"/>
+      <point      
+        x = "1768"      
+        y = "16660"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.RegisterActivity"/>
+      <point      
+        x = "500"      
+        y = "16660"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.ConnectWFriendsActivity"/>
+      <point      
+        x = "1768"      
+        y = "18040"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.ConnectWFriendsActivity"/>
+      <point      
+        x = "500"      
+        y = "18040"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.CalendarActivity"/>
+      <point      
+        x = "500"      
+        y = "13900"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.CalendarActivity"/>
+      <point      
+        x = "1768"      
+        y = "13900"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.NewEventActivity"/>
+      <point      
+        x = "500"      
+        y = "15280"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.NewEventActivity"/>
+      <point      
+        x = "1768"      
+        y = "15280"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.BaseActivity"/>
+      <point      
+        x = "500"      
+        y = "16660"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.BaseActivity"/>
+      <point      
+        x = "1768"      
+        y = "16660"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.FindFriendsActivity"/>
+      <point      
+        x = "1768"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.FindFriendsActivity"/>
+      <point      
+        x = "500"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.firstActivity"/>
+      <point      
+        x = "1304"      
+        y = "792"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.firstActivity"/>
+      <point      
+        x = "36"      
+        y = "792"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.NewCommentActivity"/>
+      <point      
+        x = "1768"      
+        y = "7000"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.NewCommentActivity"/>
+      <point      
+        x = "500"      
+        y = "7000"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "beta.drab.hubber.Activity.verifyPhoneActivity"/>
+      <point      
+        x = "500"      
+        y = "13900"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "beta.drab.hubber.Activity.verifyPhoneActivity"/>
+      <point      
+        x = "1768"      
+        y = "13900"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

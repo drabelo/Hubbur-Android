@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.4.0_d77f5df00c1a1dd92d47783fac8f9eec05f2bf39.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.kbeanie/image-chooser-library/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4780b1bcd5cbc9a511cac5aefaff32adecb08874">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.kbeanie-image-chooser-library-1.4.3_32c8775e4df6f3cdf20b878c0e63445c8272754b.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.1.1_9044db6ff56271a60ccf623b52c31c4e5c9837f2.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/hubbur-android/materialList/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16cd9d65b05fdc7a8bf2a90807f681e6c4adc823">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/hubbur-android-materialList-unspecified_ac570ca9f53bbb7e11de49a61bb16bc07ec5740d.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0_9d9812b6927b51bc908c5821d04ccdc3a15b1246.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a18abee4a31687c45cc673c4a8af0b346c80d2f4">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-1.6.1_ac3b834f5151c31c4aca8d2cbc017e1f004a2bcb.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.github.lzyzsd.randomcolor/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1eeb816d58c01b447ac31b36777cfa61e804172b">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.github.lzyzsd.randomcolor-library-1.0.0_00de2ced89e26cf5e827cf3a07b35f5b38181616.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.7/b321fd17a60912973a8344da427487c65ccbb552/joda-time-2.7-no-tzdb.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b321fd17a60912973a8344da427487c65ccbb552">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/joda-time-2.7-no-tzdb_724205dd9a2785dec474507dd88211e3001348d0.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0_f4b3b501ce771dfb78437da2fff2f39a631bb9f0.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1_7f6469fc14e6254b44b0fa0457e46a3fec855834.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.4_f0da406bf652f966b4d528302907139b993430db.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/hubbur-android/Fontinator-master/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5207ac672b6de545dd9b5a0f405be0e9d3d70cd4">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/hubbur-android-Fontinator-master-unspecified_ac0b704925253c33854e51b292d5a0f76408cd19.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b4cc38e70a45941011607ab4a2c46bacc5395b1c">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-core-1.4.1_ceefa967ea4d5a8e3eed327f6189a44a077a099a.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.2.1_0d4e02b87aad7e83feecf840abf8fa43cc10ebdc.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.malinskiy/superrecyclerview/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4649d32a5916687ff5d8e430aacb9a4e4eb10724">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.malinskiy-superrecyclerview-1.1.0_3453df49d53c6cf222fa152c8ff310875004f6f4.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.mikepenz.iconics/library/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="92f3dbfd73dbb491d4fef02679c9b60ef6c29f76">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.mikepenz.iconics-library-0.9.0_2105e059e443cec94e04358987c8cc113ee6793c.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_4c22d2af067b7d103031680559e11796ad42f871.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.github.ksoichiro-android-observablescrollview-1.5.0_f551d2ae3967a9c997ab76c7194f6b64ed7711be.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_c2f466421949a0533540155677a6874e6e0ea485.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/libs/Parse-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56dfc827c23c1f0be64eff2ef556633ea95b16ad">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/Parse-1.8.3_c094007873493c904c5d8fff8722de03b623e734.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/uk.co.chrisjenx/calligraphy/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/uk.co.chrisjenx-calligraphy-2.1.0_ae2929e33f2c0da4fc5e35a2d23bc1e2fcf6823a.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/0.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="157015930713d0411b69a76606f306c9a2c11af3">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-composer-0.8.0_98322b090315ae7947878f02acd25ed2cc784909.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0_144d38a354970ba1a0a2df81ded39f3473042ee2.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="18e495b860cfc2d0f526015a04f80cc7c099cfdc">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/net.danlew-android.joda-2.7.1_dd0d87f6f9a719a2b334b8798cf786c21efc926b.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/hubbur-android.libs/libraryTaurys/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a6e0edab6ae897cb28ca7dfc1c196a8f333a82b">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/hubbur-android.libs-libraryTaurys-unspecified_5a6f46814f225ed1d8aa4a24862f32df2f779319.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/libs/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_2df27345a9b96cdf57fa7bdd74c3822b7ff55312.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.github.johnkil.android-progressfragment/progressfragment/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8de4e8b73125d261ce4ab4a369a49c3fb4a7ab1d">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.github.johnkil.android-progressfragment-progressfragment-1.4.0_944ba5f1c71e5af76281dace516adbe2d29ada69.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0_78b9ccc8ca3fe922c064f22957e02beb2f2d22af.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.3_4035f98a47a54dd716a06c5d6576494d489b2999.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.mikepenz.materialdrawer/library/2.7.5/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ee1b971cb60600065a36fd469b0300ac544585c7">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.mikepenz.materialdrawer-library-2.7.5_73450231ccd8b39a07d7fce5475a15989bc33a10.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/library-2.4.0_57066e18b4e739b62b22a5310bdb08d17f64dcd6.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/hubbur-android.libs/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e958629f07af5950ee4165addfe4ccf975db1754">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/hubbur-android.libs-library-unspecified_2a3a5ca5df581ed89f519fedee052b230d2a3cde.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.github.nirhart-parallaxscroll-1.0_37118d320892b81d8e27ab62bdf59be13c62b83e.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/otto-1.3.5_aded976318312cf9f4b70b56985a503b09dac257.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.github.navasmdc-MaterialDesign-1.4_dd5d3ffa4f5d0b1816a8006377384dd7b041dbe2.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/hubbur-android/extendedCalendarView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="357c7d9bccc2c4eb23e7779b0babcc533ba3453c">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/hubbur-android-extendedCalendarView-unspecified_d3a832c15a0c208e19f277861eb99c688f46233c.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/in.srain.cube/ultra-ptr/1.0.8/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="da796003fda553d352f6d07eeabca97b80a38f0b">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/in.srain.cube-ultra-ptr-1.0.8_95a8e93c19e7c8d310b77a55de9ad23afdf60104.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.3_9adb19793db9d33e6e65b086cf2a8fcd76910656.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.1.3_3bed0ee73d7923d5f5e73c319e85e49ce77fb90c.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/me.villani.lorenzo.android/android-cropimage/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="50dce2e522ce1d918658faf47b54676493d0277b">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/me.villani.lorenzo.android-android-cropimage-1.0.2_b21c6d3028a1e9212d9802bb489382a45d433d51.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.etsy.android.grid-library-1.0.5_01e7be0b6c08edf56388af0c7804c15ce76414f7.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85d6153e19093517149158d7d6600c63a3169c76">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-ui-1.3.1_527b1b70464ca765ccbde5cedae77c8427d624a9.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c364019628ff5b32e4930334e9db4680829f7115">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.2.2_5f7c3a12da9b5548dded433e2d1ed85e921534e1.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7aa9f1005cfc02016af0c01eab6b71ca4c6c72dd">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.digits.sdk.android-digits-1.6.2_eab54c7d807c9889ee9f50c5410b17b3a4b05f8a.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_ca645e500458ba4072ec338b3a8f33bed456d5b7.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.melnykov-floatingactionbutton-1.2.0_aac9fb5b48e1d8e477315bff734bfedc15185c5b.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_5565ab9d72d118ccfc39daf8fb0bf74a845ef568.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/libs/ParseCrashReporting-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6abf1314a88755b8fa034b2ae99956fc02170ed1">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.3_b86d91765171d24cc499591b4285acae826621a7.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/dailtonrabelo/Downloads/hubbur-android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-21.0.3_67d339c363bbc1421adfdb6c98ef2955fb17fe9d.jar" />
+    </item>
+
+</items>

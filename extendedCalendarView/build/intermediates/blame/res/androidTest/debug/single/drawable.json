@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable/today.xml",
+        "source": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/bundles/debug/res/drawable/today.xml"
+    },
+    {
+        "merged": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable/day_selected.xml",
+        "source": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/bundles/debug/res/drawable/day_selected.xml"
+    },
+    {
+        "merged": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable/date_number_background.xml",
+        "source": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/bundles/debug/res/drawable/date_number_background.xml"
+    },
+    {
+        "merged": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable/normal_day.xml",
+        "source": "/Users/dailtonrabelo/Downloads/hubbur-android/extendedCalendarView/build/intermediates/bundles/debug/res/drawable/normal_day.xml"
+    }
+]

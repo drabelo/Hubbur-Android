@@ -1,0 +1,69 @@
+
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="beta.drab.hubber.Fragments.EventCommentsFragment"
+android:id="@+id/vv"
+android:background="@drawable/gradient_radius">
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_above="@+id/linearLayout3"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    android:paddingBottom="5dp">
+
+
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:id="@+id/eventReplyListView"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#ffffff" />
+
+
+</RelativeLayout>
+
+<RelativeLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="false"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/linearLayout3"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:background="#ffffff">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/replyEvent"
+        android:hint="enter comment"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="top"
+        android:layout_toLeftOf="@+id/sendEvent"
+        android:layout_toStartOf="@+id/sendEvent"
+        android:layout_centerInParent="true"
+        android:enabled="true"
+        android:focusable="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="post"
+        android:id="@+id/sendEvent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="onPostClick"
+        android:nestedScrollingEnabled="false"
+        android:clickable="true" />
+</RelativeLayout>
+
+</RelativeLayout>

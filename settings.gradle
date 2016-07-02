@@ -1,0 +1,4 @@
+include ':app', ':materialList', ':Fontinator-master'
+include ':extendedCalendarView'
+include ':libs:library'
+include ':libs:libraryTaurys'

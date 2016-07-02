@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hubber</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_verify_phone">verifyPhoneActivity</string>
+    <string name="title_activity_connect_wfriends">ConnectWFriendsActivity</string>
+    <string name="title_activity_find_friends">FindFriendsActivity</string>
+    <string name="title_activity_hub_selector">HubSelectorActivity</string>
+    <string name="title_activity_home">Hubber</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_hub_picker">HubPickerActivity</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+    <string name="title_activity_detail4_picture">Detail4Picture</string>
+    <string name="title_activity_my_hubs">MyHubs</string>
+    <string name="title_activity_expand_adapter_personal_hubs">ExpandAdapterPersonalHubs</string>
+    <string name="title_activity_comment_view">commentViewActivity</string>
+    <string name="title_activity_new_comment">NewCommentActivity</string>
+    <string name="title_activity_new_event">NewEventActivity</string>
+    <string name="title_activity_my_navigation_drawer">MyNavigationDrawer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_hub_profile">HubProfileActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_my_friends">MyFriendsActivity</string>
+    <string name="title_activity_my_invites">MyInvitesActivity</string>
+    <string name="title_activity_invite_friends">InviteFriendsActivity</string>
+
+</resources>
